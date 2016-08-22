@@ -1,0 +1,17 @@
+Django==1.10
+djangorestframework==3.4.5
+Pygments
+decorator
+django-environ
+ipdb
+ipython
+ipython-genutils
+pexpect
+pickleshare
+prompt-toolkit
+psycopg2
+ptyprocess
+simplegeneric
+six
+traitlets
+wcwidth

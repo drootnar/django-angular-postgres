@@ -1,0 +1,9 @@
+<div ng-controller="BlogListController as ctrl" ng-init="ctrl.init()">  
+    <div>
+        <h1>Blog Entry</h1>
+        <!-- Test List -->
+        <ul>
+          <li ng-repeat="blog in ctrl.blogs">{{ blog.title }}</li>
+        </ul>
+    </div>
+</div>
