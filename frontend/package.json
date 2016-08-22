@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "bootstrap-css": "^3.0.0",
     "eslint": "^3.1.1",
     "eslint-loader": "^1.4.1"
   },
@@ -21,6 +22,7 @@
     "eslint-loader": "^1.4.1",
     "json-loader": "^0.5.4",
     "lodash": "^4.13.1",
-    "mustache-loader": "^0.3.1"
+    "mustache-loader": "^0.3.1",
+    "angular-ui-bootstrap": "^2.1.1"
   }
 }

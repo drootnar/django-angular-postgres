@@ -2,6 +2,7 @@
 require("angular/angular");  
 require("angular-route/angular-route");  
 require("angular-resource/angular-resource");
+require("angular-ui-bootstrap/index");
 
 /* Globals */
 _ = require("lodash");  
@@ -19,7 +20,8 @@ angular.module("myApp", [
   "Home", // this is our component
   "Blog",
   "ngResource",
-  "ngRoute"
+  "ngRoute",
+  "ui.bootstrap"
 ]);
 
 /* Config Vars */
